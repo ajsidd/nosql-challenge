@@ -10,7 +10,6 @@ Welcome to the Eat Safe, Love repository! This repository contains code and docu
 4. [Analysis](#analysis)
 5. [Contributing](#contributing)
 6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
